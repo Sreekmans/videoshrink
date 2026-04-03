@@ -27,6 +27,12 @@ No installation needed. No Python. No FFmpeg. Just download and run.
 
 ---
 
+## Screenshot
+
+![VideoShrink UI](screenshot.png)
+
+---
+
 ## How to use
 
 1. Run `VideoShrink.exe`
@@ -86,4 +92,4 @@ The exe will be in the `dist\` folder.
 
 ## License
 
-GNU3 — free to use, modify and distribute.
+MIT — free to use, modify and distribute.
