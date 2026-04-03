@@ -27,12 +27,6 @@ No installation needed. No Python. No FFmpeg. Just download and run.
 
 ---
 
-## Screenshot
-
-![VideoShrink UI](screenshot.png)
-
----
-
 ## How to use
 
 1. Run `VideoShrink.exe`
