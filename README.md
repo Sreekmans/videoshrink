@@ -29,7 +29,7 @@ No installation needed. No Python. No FFmpeg. Just download and run.
 
 ## Screenshot
 
-![VideoShrink UI](screenshot.png)
+<img width="530" height="448" alt="videoshrink" src="https://github.com/user-attachments/assets/bf22575d-c159-4269-8a3d-636c4a88e704" />
 
 ---
 
