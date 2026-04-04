@@ -92,4 +92,4 @@ The exe will be in the `dist\` folder.
 
 ## License
 
-MIT — free to use, modify and distribute.
+GNU GENERAL PUBLIC LICENSE
